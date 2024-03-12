@@ -33,7 +33,7 @@ jobs:
        with:
          file: webapp/Dockerfile
          push: true
-         tags: chakri276/interview_projects_2022:synch_webapp
+         tags: chakri276/interview_projects_2024:synch_webapp
 
      - name: Setup Terraform
        uses: hashicorp/setup-terraform@v1
